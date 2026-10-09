@@ -1,0 +1,6 @@
+{
+  "name": "Smart College Timetable Generator",
+  "description": "Intelligent, dynamic college timetable scheduling system with customizable periods, break management, clash prevention, and export options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
